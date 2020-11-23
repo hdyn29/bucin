@@ -1,8 +1,8 @@
 // prettier-ignore
 export default [
-    { author: "Hadiyan", quotes: "Melihat senyummu adalah kebahagiaan bagiku. Sementara, memilikimu adalah hadiah yang paling indah dalam hidupku" },
-    { author: "Hadiyan", quotes: "Cukup jaringan aja yang hilang, kamu jangan" },
-    { author: "Hadiyan", quotes: "Fokus ke kamu aja, gak mau ke yang lain" },
-    { author: "Hadiyan", quotes: "Aku tanpamu bagaikan ambulans tanpa 'wiuw wiuw wiuw'" },
-    { author: "Hadiyan", quotes: "Hey, I love you <3" },
+    { author: "Hadiyan", quotes: "tetep semangat walau hidup kadang suka ga adil" },
+    { author: "Hadiyan", quotes: "jaku yakin kamu pasti bisa kok :)" },
+    { author: "Hadiyan", quotes: "hey, aku mau bilang kalo orang Bogor itu sok asik xixixi" },
+    { author: "Hadiyan", quotes: "when you love what you have, you have everything you need" },
+    { author: "Hadiyan", quotes: "without the dark we'd never see the stars" },
 ];
