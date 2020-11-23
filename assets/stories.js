@@ -1,6 +1,6 @@
 export default [
-  "Hallo Piola",
+  "Hey, kamu orang Bogor",
   "Aku mau ngomong nih, hehe",
   "Sebenarnya...",
-  "Aku sayang kamu! >//<"
+  "Kamu itu bau xixixi"
 ];
