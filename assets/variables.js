@@ -1,10 +1,10 @@
 export default {
-  nicknames: ["Bigil"],
+  nicknames: ["..."],
   greetings: {
-    evening: "Selamat Tidur",
-    afternoon: "Selamat Sore",
-    day: "Selamat Siang",
-    morning: "Selamat pagi",
-    night: "Selamat Tidur"
+    evening: "...",
+    afternoon: "...",
+    day: "...",
+    morning: "...",
+    night: "..."
   }
 };
